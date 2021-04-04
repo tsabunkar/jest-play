@@ -2,7 +2,7 @@ const { fetchData, greet } = require('./sync-callback');
 
 // console.log(fetchData(greet));
 
-test('Is callback value correct ? ', (done) => {
+test('Is synchronous callback value correct ? ', (done) => {
   function myGreetCb(data) {
     try {
       expect(data).toBe('Tejas');
