@@ -4,7 +4,8 @@
   "description": "- JavaScript Testing Framework - works with projects using: Babel, TypeScript, Node, React, Angular, Vue - Features:   - CODE COVERAGE   - EASY MOCKING   - GREAT EXCEPTIONS   - ALL IN ONE- TEST FRAMEWORK (like- mocha), BDD / TDD assertion library (like Chai), TEST RUNNER, CODE COVERAGE (like- Istanbul)",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "test:watch": "jest --watch"
   },
   "repository": {
     "type": "git",
