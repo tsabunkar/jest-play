@@ -1,0 +1,23 @@
+{
+  "name": "jest-supertest-play",
+  "version": "1.0.0",
+  "description": "- JavaScript Testing Framework - works with projects using: Babel, TypeScript, Node, React, Angular, Vue - Features:   - CODE COVERAGE   - EASY MOCKING   - GREAT EXCEPTIONS   - ALL IN ONE- TEST FRAMEWORK (like- mocha), BDD / TDD assertion library (like Chai), TEST RUNNER, CODE COVERAGE (like- Istanbul)",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tsabunkar/jest-supertest-play.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tsabunkar/jest-supertest-play/issues"
+  },
+  "homepage": "https://github.com/tsabunkar/jest-supertest-play#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
